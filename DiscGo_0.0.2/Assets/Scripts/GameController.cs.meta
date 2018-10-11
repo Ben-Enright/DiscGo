@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 6062c6675ca165048801738546b1bc49
+timeCreated: 1461134565
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - disc2: {fileID: 138344, guid: f7f9dd63b0d244146ba52c3db01d63aa, type: 2}
+  - disc3: {fileID: 131482, guid: f7f9dd63b0d244146ba52c3db01d63aa, type: 2}
+  - disc4: {fileID: 171986, guid: f7f9dd63b0d244146ba52c3db01d63aa, type: 2}
+  - disc5: {fileID: 103694, guid: f7f9dd63b0d244146ba52c3db01d63aa, type: 2}
+  - disc6: {fileID: 134396, guid: f7f9dd63b0d244146ba52c3db01d63aa, type: 2}
+  - disc7: {fileID: 170920, guid: f7f9dd63b0d244146ba52c3db01d63aa, type: 2}
+  - disc8: {fileID: 131384, guid: f7f9dd63b0d244146ba52c3db01d63aa, type: 2}
+  - disc9: {fileID: 154944, guid: f7f9dd63b0d244146ba52c3db01d63aa, type: 2}
+  - disc10: {fileID: 103506, guid: f7f9dd63b0d244146ba52c3db01d63aa, type: 2}
+  - disc11: {fileID: 136070, guid: f7f9dd63b0d244146ba52c3db01d63aa, type: 2}
+  - disc12: {fileID: 116540, guid: f7f9dd63b0d244146ba52c3db01d63aa, type: 2}
+  - disc13: {fileID: 134510, guid: f7f9dd63b0d244146ba52c3db01d63aa, type: 2}
+  - disc14: {fileID: 112496, guid: f7f9dd63b0d244146ba52c3db01d63aa, type: 2}
+  - heart: {fileID: 178752, guid: afc9dd913a047044cb1e87e7023d0172, type: 2}
+  - points: {fileID: 191076, guid: d2bb8296c2fea4f44a9d151466f87b4c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
